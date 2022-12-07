@@ -1,0 +1,21 @@
+{
+  "cordova-plugin-firebasex": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-firebasex@^15.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "clevertap-cordova": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/CleverTap/clevertap-cordova.git"
+    },
+    "is_top_level": true,
+    "variables": {
+      "CLEVERTAP_ACCOUNT_ID": "6ZR-965-446Z",
+      "CLEVERTAP_TOKEN": "56c-216"
+    }
+  }
+}
